@@ -1,0 +1,128 @@
+Crie um site completo utilizando apenas:
+- HTML5
+- CSS3
+- JavaScript puro
+
+Objetivo:
+Criar um site institucional com layout, cores, tipografia, espaçamentos,
+tamanhos de botões e estrutura visual IGUAIS ao site da Receita Federal / gov.br.
+
+O foco é reproduzir fielmente o DESIGN VISUAL.
+
+────────────────────────
+🎨 DESIGN (IGUAL AO GOV.BR)
+────────────────────────
+
+CORES:
+- Azul principal: #1351B4
+- Azul escuro: #0C326F
+- Verde: #2E7D32
+- Branco predominante
+- Cinza claro para fundos: #F5F5F5
+- Cinza médio para bordas: #DADADA
+
+FONTES:
+- Font-family: Arial, Helvetica, sans-serif
+- Títulos:
+  - Peso: 600 ou 700
+  - Tamanho grande
+- Textos:
+  - Peso: 400
+  - Tamanho padrão gov.br
+
+BOTÕES:
+- Altura: 44px
+- Padding: 20px
+- Fonte: 14px ou 15px
+- Texto em MAIÚSCULO
+- Fundo azul #1351B4
+- Texto branco
+- Borda-radius: 4px
+- Hover: azul mais escuro
+- Cursor pointer
+
+INPUTS:
+- Altura padrão gov.br
+- Borda cinza clara
+- Foco azul
+- Labels acima do campo
+
+────────────────────────
+🧱 ESTRUTURA DO SITE
+────────────────────────
+
+HEADER:
+- Fixo no topo
+- Altura ~70px
+- Fundo azul #1351B4
+- Texto branco
+- Menu horizontal com espaçamento igual ao gov.br
+- Itens do menu:
+  - Início
+  - Serviços
+  - Consultas
+  - Atendimento
+  - Contato
+
+BANNER PRINCIPAL:
+- Fundo azul escuro (#0C326F)
+- Título grande institucional
+- Subtítulo menor
+- Área reservada escrita:
+  "ESPAÇO FOTO"
+
+SEÇÃO DE SERVIÇOS:
+- Grid com 3 ou 4 colunas
+- Cards com:
+  - Ícone ou bloco escrito "ESPAÇO FOTO"
+  - Título
+  - Texto descritivo
+- Cards:
+  - Fundo branco
+  - Borda cinza clara
+  - Sombra leve
+  - Hover com destaque azul
+
+SEÇÃO DE DESTAQUE:
+- Fundo cinza claro
+- Texto institucional
+- Botão azul padrão gov.br
+- Área escrita:
+  "ESPAÇO FOTO"
+
+FORMULÁRIO DE CONSULTA:
+- Label acima do input
+- Campo de texto
+- Botão "Consultar"
+- Layout idêntico ao gov.br
+- Espaçamento e alinhamento fiel
+
+RODAPÉ (FOOTER):
+- Fundo azul escuro
+- Texto branco
+- Links organizados em colunas
+- Fonte pequena (~12px)
+- Área escrita:
+  "ESPAÇO FOTO"
+
+────────────────────────
+📱 RESPONSIVIDADE
+────────────────────────
+
+- Totalmente responsivo
+- Menu se adapta no mobile
+- Cards quebram para 1 coluna
+- Padding e fontes ajustados para telas pequenas
+
+────────────────────────
+📁 ARQUIVOS
+────────────────────────
+
+- index.html
+- style.css
+- script.js
+
+Gere TODO o código completo e funcional.
+Use textos genéricos.
+Onde houver imagens, escreva exatamente:
+"ESPAÇO FOTO"
